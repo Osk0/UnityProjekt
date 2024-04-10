@@ -12,7 +12,7 @@ public class CameraController : MonoBehaviour
     
     void Start()
     {
-        player = GameObject.FindGameObjectWithTag("Player").transform;
+        player = GameObject.FindGameObjectWithTag("Playerojhojojhojhohjoh").transform;
         cameraOffset = transform.position - player.position;
 
 
